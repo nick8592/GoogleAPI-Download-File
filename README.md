@@ -57,8 +57,7 @@ For the first time, you will see the below warning. Following the instruction as
 ![google_auth_1](img_source/google_auth_1.png)
 ![google_auth_2](img_source/google_auth_2.png)
 ![google_auth_3](img_source/google_auth_3.png)  
-After you press the final continue button. You should see the window shows below information.  
-And if so, then you can close the window.
+After you press the final continue button. You should see the window shows below information. And if so, then you can close the window. The file should be downloaded at the same time.
 
 ```
 The authentication flow has completed. You may close this window.
