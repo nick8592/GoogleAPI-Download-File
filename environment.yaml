@@ -1,0 +1,10 @@
+name: api
+channels:
+  - defaults
+dependencies:
+  - pip=23.0.1
+  - python=3.10.12
+  - pip:
+      - google-api-python-client
+      - google-auth-httplib2
+      - google-auth-oauthlib
