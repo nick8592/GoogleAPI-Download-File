@@ -10,7 +10,7 @@ Clone the repo.
 
 ```
 cd <workspace_folder>
-git clone https://github.com/nick8592/GoogleAPI_Download_File
+git clone https://github.com/nick8592/GoogleAPI_Download_File.git
 ```
 
 Create environments
