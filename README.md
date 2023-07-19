@@ -22,7 +22,8 @@ conda activate api
 
 ## Quickstart
 
-Move `credentials.json` file to `workspace` folder.
+Move `credentials.json` file to `workspace` folder.  
+Insure you've renamed your JSON filename to `creadentials.json`.
 
 ```
 └── <workspace_folder>
@@ -50,6 +51,17 @@ Run `download_file.py`
 
 ```
 python download_file.py
+```
+
+For the first time, you will see the below warning. Following the instruction as below images.  
+![google_auth_1](img_source/google_auth_1.png)
+![google_auth_2](img_source/google_auth_2.png)
+![google_auth_3](img_source/google_auth_3.png)  
+After you press the final continue button. You should see the window shows below information.  
+And if so, then you can close the window.
+
+```
+The authentication flow has completed. You may close this window.
 ```
 
 If download successfully, you can find the file in your `GoogleAPI_Download_File` folder, and the terminal should show
