@@ -26,8 +26,8 @@ Move `credentials.json` file to `workspace` folder.
 
 ```
 └── <workspace_folder>
-    ├──  img_source
     └──  GoogleAPI_Download_File
+        ├── img_source
         ├── README.md
         ├── .gitignore
         ├── environment.yaml
