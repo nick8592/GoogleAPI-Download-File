@@ -28,7 +28,7 @@ Insure you've renamed your JSON filename to `creadentials.json`.
 
 ```
 └── <workspace_folder>
-    └──  GoogleAPI_Download_File
+    └──  GoogleAPI-Download-File
         ├── img_source
         ├── README.md
         ├── .gitignore
