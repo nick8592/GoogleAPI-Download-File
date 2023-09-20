@@ -1,8 +1,8 @@
-# GoogleAPI_Download_File
+# GoogleAPI-Download-File
 
 You can follow the [Official Instruction](https://developers.google.com/drive/api/quickstart/python?hl=zh-tw) provide by google.
 
-You have to create a [Google Cloud Project](https://developers.google.com/workspace/guides/create-project?hl=zh-tw) first, and activate the [Google Workspace API](https://developers.google.com/workspace/guides/enable-apis?hl=zh-tw). Download the JSON file, then you can continue for the following work.
+You have to create a [Google Cloud Project](https://developers.google.com/workspace/guides/create-project?hl=zh-tw) first, and open the [Google Workspace API](https://developers.google.com/workspace/guides/enable-apis?hl=zh-tw) then activate "Google Drive API". Download the JSON file, then you can continue for the following work.
 
 ## Installation
 
