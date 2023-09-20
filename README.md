@@ -33,7 +33,7 @@ Insure you've renamed your JSON filename to `creadentials.json`.
         ├── README.md
         ├── .gitignore
         ├── environment.yaml
-        ├── credentials.json
+        ├── credentials.json <------
         └── download_file.py
 ```
 
