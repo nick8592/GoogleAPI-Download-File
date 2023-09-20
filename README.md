@@ -16,6 +16,7 @@ git clone https://github.com/nick8592/GoogleAPI-Download-File.git
 Create environments
 
 ```
+cd GoogleAPI-Download-File
 conda env create -f environment.yaml
 conda activate api
 ```
